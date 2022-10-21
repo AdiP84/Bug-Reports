@@ -103,6 +103,7 @@ After clicking the 'arhitect sef" link, a new webpage should open with the requi
 User encounters the Error 404 - Not Found in the new opened webpage.
 
 **Test data**
+
 -
 
 **Status**
