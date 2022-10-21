@@ -28,11 +28,6 @@ The MENU should be responsive for every screen size.
 
 The MENU sticks to the desktop version instead of changing itself to “hamburger menu”.
 
-
-**Test data**
-
--
-
 **Status**
 
 New
@@ -102,10 +97,6 @@ After clicking the 'arhitect sef" link, a new webpage should open with the reque
 **Actual result**
 
 User encounters the "Error 404 - Not Found" in the new opened webpage.
-
-**Test data**
-
--
 
 **Status**
 
