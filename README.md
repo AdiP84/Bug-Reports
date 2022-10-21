@@ -74,14 +74,17 @@ Pass: prodigy84
 **Status**
 
 New
+
 --------------------------------------------------------------------------------------------------
 **Priority & Severity**
 P6, Low
 
 **Title**
+
 Error 404 page not found
 
 **Description**
+
 The "Arhitect sef" link is broken.
 A new webpage with the required information should open.
 
@@ -91,14 +94,17 @@ A new webpage with the required information should open.
 3.	Observe if the link's corresponding page is opened successfully
 
 **Expected result**
+
 After clicking the 'arhitect sef" link, a new webpage should open with the required information.
 
 **Actual result**
+
 User encounters the Error 404 - Not Found in the new opened webpage.
 
 **Test data**
 -
 
 **Status**
+
 New
 
