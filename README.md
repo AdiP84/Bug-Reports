@@ -126,8 +126,6 @@ High page load time
 
 The web page loading time is high.
 
-
-
 **Steps to reproduce**
 
 1.	Go to webpage: https://juice-shop.herokuapp.com/#/
@@ -143,7 +141,7 @@ The page loads in more than 5 seconds on multiple tests. The average is 5.3 seco
 
 **Test data**
 
--
+When inspecting the webpage in the network section for loading time results, 'preserve log' and 'disable cache' are ticked with 'all' types of files selected.
 
 **Status**
 
