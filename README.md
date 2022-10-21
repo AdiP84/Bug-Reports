@@ -112,3 +112,39 @@ User encounters the Error 404 - Not Found in the new opened webpage.
 
 New
 
+------------------------------------------------------------------------------------------------------
+
+**Priority & Severity**
+
+P2, Medium
+
+**Title**
+
+High page load time
+
+**Description**
+
+The web page loading time is high.
+
+
+
+**Steps to reproduce**
+
+1.	Go to webpage: https://juice-shop.herokuapp.com/#/
+3.  Check page loading time
+
+**Expected result**
+
+The load time of the page should not exceed 3-4 seconds.
+
+**Actual result**
+
+The page loads in more than 5 seconds on multiple tests. The average is 5.3 seconds.
+
+**Test data**
+
+-
+
+**Status**
+
+New
