@@ -69,6 +69,7 @@ When I click on “my account button”, a new page should be displayed but inst
 **Test data**
 
 User: adiper84
+
 Pass: prodigy84
 
 **Status**
