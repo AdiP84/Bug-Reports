@@ -45,26 +45,25 @@ P3, Medium
 
 **Title**
 
-Profile page not working
+My account page not working
 
 **Description**
 
-When trying to access the profile page after logging in with correct credentials, nothing happens. 
+When trying to access "my account" page after logging in with correct credentials, nothing happens. 
 
 **Steps to reproduce**
 1.	Go to STORE (demoblaze.com)
 2.	Add correct user and password required in the “log in“ modal box
-3.	Observe if user can log in after pressing the "log in" button
-4.	Click on my account page after successful login
-5.	Observe if user is taken to profile page
+3.	Click on my account page after successful login
+4.	Check if user is taken to profile page
 
 **Expected result**
 
-After successfully logging in with correct credentials, user should be taken to “my account”.
+After successfully logging in with correct credentials, user should be able to access “my account” page.
 
 **Actual result**
 
-When I click on “my account button”, a new page should be displayed but instead nothing happens.
+When clicking on “my account button”, a new page should be displayed but instead nothing happens.
 
 **Test data**
 
@@ -94,15 +93,15 @@ A new webpage with the required information should open.
 **Steps to reproduce**
 1.	Go to webpage: https://www.primariatechirghiol.ro/formulare/
 2.	Click the 'arhitect sef" link
-3.	Observe if the link's corresponding page is opened successfully
+3.	Check if the link's corresponding page is opened successfully
 
 **Expected result**
 
-After clicking the 'arhitect sef" link, a new webpage should open with the required information.
+After clicking the 'arhitect sef" link, a new webpage should open with the requested information.
 
 **Actual result**
 
-User encounters the Error 404 - Not Found in the new opened webpage.
+User encounters the "Error 404 - Not Found" in the new opened webpage.
 
 **Test data**
 
@@ -120,11 +119,11 @@ P2, Medium
 
 **Title**
 
-High page load time
+High webpage loading time
 
 **Description**
 
-The web page loading time is high.
+The webpage loading time is high.
 
 **Steps to reproduce**
 
@@ -141,7 +140,7 @@ The page loads in more than 5 seconds on multiple tests. The average is 5.3 seco
 
 **Test data**
 
-When inspecting the webpage in the network section for loading time results, 'preserve log' and 'disable cache' are ticked with 'all' types of files selected.
+When inspecting the webpage in the "network" section for loading time results, 'preserve log' and 'disable cache' are ticked and 'all' types of files are selected.
 
 **Status**
 
