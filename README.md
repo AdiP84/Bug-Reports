@@ -40,12 +40,15 @@ New
 --------------------------------------------------------------------------
 
 **Priority & Severity**
+
 P3, Medium
 
 **Title**
+
 Profile page not working
 
 **Description**
+
 When trying to access the profile page after logging in with correct credentials, nothing happens. 
 
 **Steps to reproduce**
@@ -56,14 +59,18 @@ When trying to access the profile page after logging in with correct credentials
 5.	Observe if user is taken to profile page
 
 **Expected result**
+
 After successfully logging in with correct credentials, user should be taken to “my account”.
 
 **Actual result**
+
 When I click on “my account button”, a new page should be displayed but instead nothing happens.
 
 **Test data**
+
 User: adiper84
 Pass: prodigy84
 
 **Status**
+
 New
