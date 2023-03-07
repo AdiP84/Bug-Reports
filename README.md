@@ -87,12 +87,12 @@ A new webpage with the required information should open.
 
 **Steps to reproduce**
 1.	Go to webpage: https://www.primariatechirghiol.ro/formulare/
-2.	Click the 'arhitect sef" link
+2.	Click the "arhitect sef" link
 3.	Check if the link's corresponding page is opened successfully
 
 **Expected result**
 
-After clicking the 'arhitect sef" link, a new webpage should open with the requested information.
+After clicking the "arhitect sef" link, a new webpage should open with the requested information.
 
 **Actual result**
 
